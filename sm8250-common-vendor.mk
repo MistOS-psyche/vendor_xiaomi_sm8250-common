@@ -621,7 +621,6 @@ PRODUCT_PACKAGES += \
     msm_irqbalance \
     mutualex \
     netmgrd \
-    nv_mac \
     pd-mapper \
     pm-proxy \
     pm-service \
