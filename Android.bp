@@ -12477,6 +12477,7 @@ cc_prebuilt_library_shared {
                 "libandroid_runtime",
                 "libui",
                 "libinput",
+                "libbinder_shim",
                 "libinput_shim",
                 "libnativehelper",
                 "libutils",
@@ -12545,7 +12546,6 @@ cc_prebuilt_library_shared {
                 "proprietary/system_ext/lib64/libwfdservice.so",
             ],
             shared_libs: [
-                "libaudioclient_shim",
                 "liblog",
                 "libutils",
                 "libcutils",
